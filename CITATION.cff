@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "Bila memakai data atau kode ini, mohon kutip sebagai berikut."
 title: "Data, kode, dan protokol Studi A dan Studi C untuk buku Membaca Angka, Menilai Riset"
-version: "1.0"
+version: "1.0.1"
 date-released: 2026-11-01
 license: CC-BY-4.0
 authors:
@@ -9,4 +9,4 @@ authors:
     given-names: Benny Sukma
     orcid: "https://orcid.org/0000-0001-8455-0912"
     affiliation: "UIN Sultan Syarif Kasim Riau"
-doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.23854537"

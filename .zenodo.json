@@ -6,5 +6,6 @@
   "keywords": ["evaluasi riset", "bibliometrik", "OpenAlex", "DOI", "Crossref", "jurnal Indonesia", "large language model", "penilaian mutu riset", "research evaluation"],
   "language": "ind",
   "license": "cc-by-4.0",
-  "version": "1.0"
+  "version": "1.0.1",
+  "related_identifiers": [{"identifier": "https://github.com/bsnegara/membaca-angka-studi-ac", "relation": "isSupplementTo", "scheme": "url"}]
 }
