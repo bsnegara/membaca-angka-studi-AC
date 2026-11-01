@@ -3,7 +3,7 @@
 
 Penulis: Benny Sukma Negara (UIN Sultan Syarif Kasim Riau, ORCID 0000-0001-8455-0912)
 
-Repositori: https://github.com/bsnegara/membaca-angka-studi-ac · Arsip permanen: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23854537.svg)](https://doi.org/10.5281/zenodo.23854537)
+Repositori: https://github.com/bsnegara/membaca-angka-studi-ac · Arsip permanen: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23854536.svg)](https://doi.org/10.5281/zenodo.23854536)
 
 Pertanyaan atau laporan kesalahan: silakan buka *Issue* di repositori ini.
 
@@ -54,4 +54,4 @@ Protokol ditulis sebelum data dikumpulkan, tetapi diarsipkan di repositori ini s
 
 ## Cara mengutip
 
-Negara, B. S. (2026). *Data, kode, dan protokol Studi A dan Studi C untuk buku Membaca Angka, Menilai Riset* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23854537
+Negara, B. S. (2026). *Data, kode, dan protokol Studi A dan Studi C untuk buku Membaca Angka, Menilai Riset* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23854536
